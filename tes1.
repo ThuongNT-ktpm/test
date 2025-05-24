@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <header>
+        <h1>MY RESUME</h1>
+        <nav>
+            <a href="https://actually-seed-866.notion.site/Nguy-n-Ti-n-Th-ng-0a0a59fff3084032814aa16d1b0f88be">My
+                skill</a> |
+            <a href="https://actually-seed-866.notion.site/Nguy-n-Ti-n-Th-ng-0a0a59fff3084032814aa16d1b0f88be"> My
+                education</a> |
+            <a href="https://actually-seed-866.notion.site/Nguy-n-Ti-n-Th-ng-0a0a59fff3084032814aa16d1b0f88be"> My
+                contact
+            </a>
+        </nav>
+        <img src="images/avatar.jpg" alt="Hình ảnh đại diện của tôi" width="150px" height="300px">
+    </header>
+    <main>
+
+        
+            <h2>NGUYEN TIEN THUONG</h2>
+            <h4>Wed designer</h4>
+       
+        <h3>INFO:</h3>
+        <p> <img src="images/location.png" alt="dia chi" width="20px" height="20px">
+            address: 334 bording house, 334 steet, Ninh Kieu District</p>
+        <p> <img src="images/call.png" alt="lien he" width="20px" height="20px">
+            Phone: +84 907648667
+        </p>
+        <p>
+            <img src="images/mail.png" alt=" email" width="20px" height="20px">
+            Email: thuongnt.ce191329@gmail.com
+        </p>
+        <h3>PROFILE:</h3>
+        <p>I am a student and I stared learning wed designer of two weeks ago, the subject is very interesting and I
+            enjoy
+            creating simple websites. </p>
+
+        <h3>WORK EXPERIENCE: </h3>
+        <p>
+        <ol>
+            <li><strong>2019-2020:</strong> I worked as a waiter in a restaurant</li>
+            <ul tpye="cirle">
+                <li>My main tasks included taking orders and serving food</li>
+                <li>I learned how to work in a team and communicate with customers</li>
+              
+               
+
+            </ul>
+            <li><strong>2021-2023:</strong> I worked as a part-time tutor for high school students</li>
+            <ul tpye="circle">
+                <li>I helped students with their math and science homework</li>
+                <li>I developed my teaching skills and learned how to explain complex concepts</li>
+            </ul>
+            </ul tpye="circle">
+            <li><strong>2023-2024:</strong> I interned at a local web development company</li>
+            <ul tpye="circle">
+                <li>I assisted in designing and developing websites for clients</li>
+                <li>I gained hands-on experience in web design and learned about different tools and technologies</li>
+            </ul>
+            <li><strong>2025:</strong> I am currently working as a freelance web designer</li>
+            <ul type=" circle">
+                <li>I am working on several projects for small businesses</li>
+                <li>I am learning new skills and improving my design abilities</li>
+            </ul>
+        </ol>
+        </p>
+        <h3>EDUCATION:</h3>
+        <table border="1">
+            <tr>
+                <th>Year</th>
+                <th>School</th>
+                <th>Education Level</th>
+            </tr>
+            <tr>
+                <td>2024-2025</td>
+                <td>FPT University</td>
+                <td>Freshman</td>
+            </tr>
+            <tr>
+                <td>2021-2024</td>
+                <td>THPT Tran Van Thoi education</td>
+                <td>High School</td>
+            </tr>
+            <tr>
+                <td>2017-2021</td>
+                <td>THCS Tran Van Thoi</td>
+                <td>Secondary School education</td>
+            </tr>
+            <td>2012-2017</td>
+            <td>TH Khanh Binh Dong 5</td>
+            <td>Primary School education</td>
+            </tr>
+        </table>
+        <h3>Skill</h3>
+        <p>HTML (70%)
+            <progress value="70" max="100"></progress>
+        </p>
+        <p>
+            CSS (0%)
+            <progress value="0" max="100"></progress>
+        </p>
+        <p>
+            JavaScript (0%)
+            <progress value="0" max="100"></progress>
+        </p>
+        <h3>HOBBY:</h3>
+        <p><img src="images/game.jpg" alt="phim" width="20px" height="20px">
+            <strong>game:</strong>
+            <a href="https://play.google.com/store/apps/details?id=com.dts.freefiremax&hl=vi&pli=1"> FreeFire</a>
+        </p>
+        <img src="images/free fire.png" alt="ảnh game free fire" width="400px" height="300px">
+        <p>
+            <img src="images/video.png" alt="Phim">
+            <strong>Video:</strong>
+            <a href="https://motchilla.fm/phim/hoa-gian-lenh/tap-1-sv-0"> Cuc Tinh Y</a>
+
+        </p>
+        <img src="images/cuc_tinh_y2.png" alt="phim cuc tinh y" width="100px" height="100px">
+        <br>
+        <video controls src="data/Iloveyou.mp4"></video>
+        <p>
+            <img src="images/music.png" alt="nhac" width="20px" height="20px">
+            <strong>Music:</strong>
+            <a href="https://www.youtube.com/watch?v=lRsaDQtYqAo"> Mất Kết Nói</a>
+        </p>
+        <img src="images/maxresdefault.jpg" alt="mat ket noi" width="400px" height="300px">
+
+        <br>
+        <audio controls>
+            <source src="audio/Dương Domic - Mất Kết Nối - EP 'Dữ Liệu Quý'.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+
+        </audio>
+        <h3>CONTACT:</h3>
+        <fieldset>
+            Name:<input type="text" name="name" required><br>
+            Phone:<input type="tel" name="phone" required><br>
+            Email:<input type="email" name="email" required><br>
+            Gender:
+            <input type="radio" name="gender" value="male"> Male
+            <input type="radio" name="gender" value="female"> Female
+            <input type="radio" name="gender" value="Đồng tính"> Bedee<br>
+
+            Choose interesting:
+            <input type="checkbox" name="interest" value="Java"> Java
+            <input type="checkbox" name="interest" value="HTML"> HTML
+            <input type="checkbox" name="interest" value="CSS"> CSS
+            <input type="checkbox" name="interest" value="JavaScript"> JavaScript<br>
+            Support:
+            <select name="choose" id="choose">
+                <option value="HTML">HTML</option>
+                <option value="CSS">CSS</option>
+                <option value="ChatGPT">ChatGPT</option>
+                <option value="JavaScript">JavaScript</option>
+
+            </select><br>
+            Content:<br>
+            <textarea name="content" id="content" cols="50" rows="7"></textarea><br>
+
+            <input type="button" value="Submit">
+            <input type="reset" value="Reset">
+
+        </fieldset>
+
+        </form>
+    </main>
+    <footer>
+        <p>Copyright &copy; 2025 by Nguyen Tien Thuong</p>
+    </footer>
+
+</body>
+
+</html>
